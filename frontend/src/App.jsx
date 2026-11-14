@@ -17,7 +17,6 @@ const App = () => {
 
   return (
     <>
-      <div>A</div>
       <h2>Number of products are: {products.length}</h2>
     </>
   )
